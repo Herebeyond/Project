@@ -7,6 +7,7 @@ $username = '';
 $password = '';
 $errors = [];
 
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $username = trim($_POST['Identification']); // Nettoyage des entrées utilisateur
     $password = trim($_POST['psw']);
