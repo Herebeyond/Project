@@ -1,0 +1,12 @@
+
+#Identification {
+    background-color: #5a1212;
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+.error {
+    color: #ff0000;
+}
