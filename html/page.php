@@ -3,8 +3,6 @@ session_start();
 require 'db.php'; // Connexion à la base
 ?>
 
-
-
 <html lang="fr">
 <head>
     <link rel="stylesheet" href="../css/style.css">
